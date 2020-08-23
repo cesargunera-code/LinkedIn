@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrarse | LinkedIn</title>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/login.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/fontawesome-all.css">
+</head>
+
+<body>
+    <div id="contenido">
+        <div id="logo2">
+            <img src="img/encabezado.png" id="img-logo">
+        </div> 
+        <div id="encabezado2">
+            <h1>Saca el máximo partido a tu vida profesional</h1>
+        </div>
+
+        <section id="formularios">
+            <div class="alert alert-danger" role="alert" id="error" style="display: none; height: 40px; padding: 8px; font-weight: 650; float: right; margin-left: auto; color: white; background-color: #D11124;">Introduce una dirección de correo electrónico o contraseña válida.</div>
+            <div class="row">
+                <div class="col-12">
+                    <form id="formulario-registro">
+                        <span style="float: left;">Email</span>
+                        <input type="text" class="form-control caja-texto"  id="correo" maxlength="25" style="height: 32px;">
+                        <span style="float: left;">Contraseña (6 o más caracteres)</span>
+                        <input type="password" class="form-control caja-texto" id="contraseña" minlength="6" maxlength="10" style="height: 32px;">
+                        <span style="float: left;">Nombre</span>
+                        <input  type="text" class="form-control caja-texto" id="nombre" maxlength="10" style="height: 32px;">
+                        <span style="float: left;">Apellido</span>
+                        <input type="text" class="form-control caja-texto" id="apellido" " maxlength="10" style="height: 32px;">
+                        <p class="parrafo">Al hacer clic en «Aceptar y unirse», aceptas las <a class="parrafo enlace" href="#">Condiciones de uso</a>, la <a class="parrafo enlace" href="#">Política de privacidad</a> y la <a class="parrafo enlace" href="#">Política de cookies</a> de LinkedIn.</p>
+                        <button type="button" class="btn btn-primary btn-login btn-lg" onclick="guardarUsuario()">Aceptar y unirse</button>
+                        <hr>
+                        <span>¿Ya eres usuario de LinkedIn?</span>
+                        <a class="link" href="login.html">Iniciar sesión</a>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer-login">
+        <div style="margin-left: auto; margin-right: auto;">
+            <div style="margin-top: 14px; text-align: center">
+                <ul class="nav">
+                    <li class="nav-item">
+                        <p style="font-size: 12px"><img class="footer-logo" src="img/pie-pagina.png"> © 2020</p>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="#">Condiciones de Uso</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Política de Privacidad</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Directrices Comunitarias</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Política de Cookies</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Política de Copyright</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Enviar Comentarios</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/axios.min.js"></script>
+    <script src="js/controlador-usuarios.js"></script>
+</body>
+</html>

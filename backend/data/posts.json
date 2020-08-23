@@ -1,0 +1,178 @@
+[
+    {
+        "codigoPost": 1,
+        "codigoUsuario": 1,
+        "contenidoPost": "El efecto invernadero y el cambio clim\u00e1tico es ocasionado por la gran contaminaci\u00f3n de gases que provienen de las grandes f\u00e1bricas.",
+        "imagen": "img\/posts\/1.jpg",
+        "cantidadLikes": 34,
+        "tiempo": "1 semana"
+    },
+    {
+        "codigoPost": 2,
+        "codigoUsuario": 2,
+        "contenidoPost": "\u00a1Somos Google!",
+        "imagen": "img\/posts\/2.jpg",
+        "cantidadLikes": 13,
+        "tiempo": "5 dias"
+    },
+    {
+        "codigoPost": 3,
+        "codigoUsuario": 3,
+        "contenidoPost": "!Vive la mejor experiencia con Microsoft Teams!",
+        "imagen": "img\/posts\/3.jpg",
+        "cantidadLikes": 12,
+        "tiempo": "5 dias"
+    },
+    {
+        "codigoPost": 4,
+        "codigoUsuario": 4,
+        "contenidoPost": "Estudia y aprende desde casa, que no te desanime esta pandemia.",
+        "imagen": "img\/posts\/4.jpg",
+        "cantidadLikes": 700,
+        "tiempo": "6 dias"
+    },
+    {
+        "codigoPost": 5,
+        "codigoUsuario": 5,
+        "contenidoPost": "\u00a1Gran momento en familia!",
+        "imagen": "img\/posts\/5.jpg",
+        "cantidadLikes": 5245,
+        "tiempo": "3 dias"
+    },
+    {
+        "codigoPost": 6,
+        "codigoUsuario": 6,
+        "contenidoPost": "Protejamos la capa de ozono, cuidemos lo que Dios nos ha dado. Di No la Contaminaci\u00f3n Ambiental",
+        "imagen": "img\/posts\/6.jpg",
+        "cantidadLikes": 56,
+        "tiempo": "2 dias"
+    },
+    {
+        "codigoPost": 7,
+        "codigoUsuario": 7,
+        "contenidoPost": "\u00a1Porque la educaci\u00f3n, es el alma de los pueblos!",
+        "imagen": "img\/posts\/7.jpg",
+        "cantidadLikes": 345,
+        "tiempo": "4 dias"
+    },
+    {
+        "codigoPost": 8,
+        "codigoUsuario": 2,
+        "contenidoPost": "\u00a1Grandes obras de ingenier\u00eda!",
+        "imagen": "img\/posts\/8.jpg",
+        "cantidadLikes": 980,
+        "tiempo": "5 dias"
+    },
+    {
+        "codigoPost": 9,
+        "codigoUsuario": 3,
+        "contenidoPost": "Manejo de las cosechas en el continente africano",
+        "imagen": "img\/posts\/9.jpg",
+        "cantidadLikes": 355,
+        "tiempo": "10 dias"
+    },
+    {
+        "codigoPost": 10,
+        "codigoUsuario": 4,
+        "contenidoPost": "Ahorre energ\u00eda, desconectando los aparatos electr\u00f3nicos cuando no los este usando",
+        "imagen": "img\/posts\/10.jpg",
+        "cantidadLikes": 765,
+        "tiempo": "8 dias"
+    },
+    {
+        "codigoPost": 11,
+        "codigoUsuario": 1,
+        "contenidoPost": "Acata las respectivas medidas de bioseguridad.",
+        "imagen": "img\/posts\/11.jpg",
+        "cantidadLikes": 123,
+        "tiempo": "3 dias"
+    },
+    {
+        "codigoPost": 12,
+        "codigoUsuario": 7,
+        "contenidoPost": "\u00a1Somos Banco Ficohsa!",
+        "imagen": "img\/posts\/12.jpg",
+        "cantidadLikes": 765,
+        "tiempo": "2 dias"
+    },
+    {
+        "codigoPost": 13,
+        "codigoUsuario": 4,
+        "contenidoPost": "\u00a1Ahorra costos y tiempo en tu empresa!",
+        "imagen": "img\/posts\/13.jpg",
+        "cantidadLikes": 348,
+        "tiempo": "1 dia"
+    },
+    {
+        "codigoPost": 14,
+        "codigoUsuario": 5,
+        "contenidoPost": "Medidas de seguridad para hacer una instalaci\u00f3n el\u00e9ctrica.",
+        "imagen": "img\/posts\/14.jpg",
+        "cantidadLikes": 560,
+        "tiempo": "12 dias"
+    },
+    {
+        "codigoPost": 15,
+        "codigoUsuario": 1,
+        "contenidoPost": "Contribuye con los productores hondure\u00f1os.",
+        "imagen": "img\/posts\/15.jpg",
+        "cantidadLikes": 46,
+        "tiempo": "10 dias"
+    },
+    {
+        "codigoPost": 16,
+        "codigoUsuario": 6,
+        "contenidoPost": "Leyde te recomienda: Organizar tus ideas en una agenda.",
+        "imagen": "img\/posts\/16.jpg",
+        "cantidadLikes": 35,
+        "tiempo": "6 dias"
+    },
+    {
+        "codigoPost": 17,
+        "codigoUsuario": 3,
+        "contenidoPost": "A salir de esta pandemia; m\u00e1s fuertes que nunca.",
+        "imagen": "img\/posts\/17.jpg",
+        "cantidadLikes": 267,
+        "tiempo": "9 dias"
+    },
+    {
+        "codigoPost": 18,
+        "codigoUsuario": 2,
+        "contenidoPost": "\u00a1El dise\u00f1o web, desde el punto de vista de Google!",
+        "imagen": "img\/posts\/18.jpg",
+        "cantidadLikes": 150,
+        "tiempo": "1 dia"
+    },
+    {
+        "codigoPost": 19,
+        "codigoUsuario": 8,
+        "contenidoPost": "\u00a1Refresca tu sed con Coca-Cola!",
+        "imagen": "img\/posts\/19.jpg",
+        "cantidadLikes": 1567,
+        "tiempo": "2 dias"
+    },
+    {
+        "codigoPost": 20,
+        "codigoUsuario": "1",
+        "contenidoPost": "Grande eres mi Dios!",
+        "imagen": "img\/posts\/21.jpg",
+        "cantidadLikes": 0,
+        "tiempo": "hoy"
+    },
+    {
+        "codigoPost": 21,
+        "codigoUsuario": "8",
+        "contenidoPost": "\u00a1Grande es Par\u00eds!, grande es Francia.",
+        "imagen": "img\/posts\/26.jpg",
+        "cantidadLikes": 0,
+        "tiempo": "hoy"
+    },
+    {
+        "codigoPost": 22,
+        "codigoUsuario": "6",
+        "contenidoPost": "Bella naturaleza que Dios nos regal\u00f3.",
+        "imagen": "img\/posts\/25.jpg",
+        "cantidadLikes": 0,
+        "tiempo": "hoy"
+    }
+]

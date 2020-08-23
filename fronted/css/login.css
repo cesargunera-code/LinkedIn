@@ -1,0 +1,221 @@
+body{
+        font-family: 'Segoe UI', Tahoma, sans-serif;
+        text-align: center;
+}
+#contenido{
+        background-color: #fff;
+        height: 563px; 
+    }
+#logo{
+    padding: 60px 0 50px;
+    text-align: center;
+    height: 110px;
+}
+
+#encabezado {
+    background-color: transparent;
+    text-align: center;
+    border-radius: 3px ;
+    font-size: 1.5rem;
+    height: 95px;
+    font-weight: 600;
+}
+#formulario {
+    height:  340px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#texto {
+    color: gray;
+}
+#encabezado h1{
+    font-size: 1.5rem;
+    padding-bottom: 4px;
+}
+#pie-formulario {
+    text-align: center;
+    font-size: 1rem;
+}
+.caja-texto{
+    border-radius: 3px;
+    margin-bottom: 12px;
+    border-width: 1px;
+    border-color: #006097;
+    height: 52px;
+    background-color: #E8F0FE;
+}
+.caja-texto:focus{
+    outline: 0;
+    box-shadow: 0 !important;
+}
+.control {
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-width: 0;
+    font-size: 1.5rem;
+}
+#texto {
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.6);
+    padding-bottom: 10px;
+}
+.btn-login{
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width:400px;
+    background-color: #0073b1;
+    border-radius: 2px;
+}
+.btn-login:hover{
+    background-color: #006097
+}
+.form-control {
+    height: 52px;
+    margin-top: 10px;
+    color: rgba(0,0,0,0.9);
+}
+.btn-primary {
+    background-color: #0073b1;
+    color: white;
+    height: 52px;
+    margin-top: 0;
+    text-align: center;
+    transition: .3s;
+    font-size: 1.2rem;
+    border-width: 0;
+}
+.btn-primary:hover {
+    background-color: #006097 ;
+}
+.link {
+    color: #08679b;
+    font-weight: 600;
+    font-family: inherit;
+    height: 32px;
+    font-size: 1rem;
+}
+#encabezado2 {
+    height: 75px;
+    color: rgb(0, 0, 0);
+    padding: 25px 16px 5px 16px;
+}
+#encabezado2 h1 {
+    font-size: 1.9rem;
+    line-height: 1.25;
+    font-weight: 400;
+}
+#formularios {
+    height:  390px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.parrafo{
+    text-align: center;
+    font-size: 13px; 
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.enlace {
+    color: #08679b;
+    font-weight: 600;
+    font-family: inherit;
+    height: 32px;
+    font-size: 13px;
+
+}
+#logo2 {
+    padding: 20px 15px;
+    text-align: center;
+    height: 34px;
+}
+.footer-login{
+    display: flex;
+    width: 100%;
+    height: 56px;
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+.nav{
+    display: flex;
+    margin-top:10px;
+}
+.footer-logo{
+    width:56px; 
+    height:30px;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+.nav-link{
+    color: rgba(0,0,0,0.6);
+    font-size: 12px;
+    line-height: 1.33333;
+    font-weight: 600;
+    margin-top: auto;
+    margin-bottom: auto;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-link:hover {
+    text-decoration: underline;
+    color: rgba(0,0,0,0.6);
+}
+.btn-light {
+    margin-top: 10px;
+    box-sizing: border-box;
+    width: 400px;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+    height: 48px;
+    outline-width: 2px;
+    text-align: center;
+}
+.btn-light:hover{
+    background-color: rgba(207, 207, 207, 0.25);
+    color: rgba(0, 0, 0, 0.6);
+    border-width: 0;
+}
+
+.btn-outline-primary {
+    color: #0073b1;
+    background-color: rgba(0,0,0,0);
+
+}
+.btn-outline-primary:hover {
+    color: #006097;
+    background-color: rgba(152,216,244,0.25);
+    border-radius: 3px;
+    font-family: inherit;
+}
+
+#container {
+    float: left;
+    padding: 32px 20px 8px 60px;
+    margin-left: 270px;
+    text-align: left;
+    height: 490px;
+}
+.navbar-expand-lg  {
+    background-color: #283E4A !important;
+}
+#encabezados h1 {
+    font-size: 1.9rem;
+    line-height: 1.25;
+    font-weight: 400;
+    margin-top: 40px;
+}
+input:focus{
+    outline-width: 0;
+}
+.input-error{
+    border: 1px solid #ff0000;
+}
+.input-success {
+    border: 1px solid green;   
+}

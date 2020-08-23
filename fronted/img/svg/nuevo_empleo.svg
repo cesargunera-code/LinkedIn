@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" id="clock-time-medium" data-supported-dps="56x56">
+  <circle cx="28" cy="28" r="21" fill="#fff"/>
+  <path d="M28 7A21 21 0 117 28 21 21 0 0128 7m0-3a24 24 0 1024 24A24 24 0 0028 4z" fill="#005e93"/>
+  <circle cx="28" cy="28" r="14" fill="#9bdaf3"/>
+  <circle cx="28" cy="9" r="1" fill="#9bdaf3"/>
+  <circle cx="18.51" cy="11.55" r="1" transform="rotate(-30 18.508 11.54)" fill="#9bdaf3"/>
+  <circle cx="11.62" cy="18.45" r="1" transform="rotate(-60.11 11.618 18.453)" fill="#9bdaf3"/>
+  <circle cx="9" cy="28" r="1" fill="#9bdaf3"/>
+  <circle cx="11.55" cy="37.5" r="1" transform="rotate(-30 11.553 37.496)" fill="#9bdaf3"/>
+  <circle cx="18.49" cy="44.45" r="1" transform="rotate(-60 18.492 44.451)" fill="#9bdaf3"/>
+  <circle cx="28" cy="47" r="1" fill="#9bdaf3"/>
+  <circle cx="37.5" cy="44.45" r="1" transform="rotate(-30 37.51 44.45)" fill="#9bdaf3"/>
+  <circle cx="44.6" cy="37.34" r="1" transform="rotate(-60.11 44.605 37.332)" fill="#9bdaf3"/>
+  <circle cx="47" cy="28" r="1" fill="#9bdaf3"/>
+  <circle cx="44.45" cy="18.52" r="1" transform="rotate(-30 44.46 18.513)" fill="#9bdaf3"/>
+  <circle cx="37.55" cy="11.4" r="1" transform="rotate(-60.11 37.55 11.393)" fill="#9bdaf3"/>
+  <path fill="#0091ca" d="M29 27V11h-2v18h11v-2h-9z"/>
+</svg>

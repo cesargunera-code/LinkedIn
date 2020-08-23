@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" id="company-buildings-medium" data-supported-dps="56x56">
+  <path fill="#FFF" d="M10 7h21v42H10z"/>
+  <path fill="#9BDAF3" d="M32.479 50.562v-33h14.542a.5.5 0 01.5.5v32.5H32.479z"/>
+  <path fill="#00A0DC" d="M13 12h15v6H13zM13 21h15v6H13zM13 30h15v6H13zM16 41h9v8h-9z"/>
+  <path fill="#036293" d="M49 49V18c0-1.105-.619-2-1.69-2H34V6a2 2 0 00-2-2H9a2 2 0 00-2 2v43H4v3h48v-3h-3zm-18 0H10V7h21v42zm15 0H34v-7h10v-3H34v-4h10v-3H34v-4h10v-3H34v-6h12v30z"/>
+  <path fill="none" d="M0 0h56v56H0z"/>
+</svg>

@@ -1,0 +1,188 @@
+[
+    {
+        "codigoComentario": 1,
+        "codigoPost": 1,
+        "usuario": "Google",
+        "comentario": "Sin duda alguna, cuanto da\u00f1o le hacemos a nuestro planeta."
+    },
+    {
+        "codigoComentario": 2,
+        "codigoPost": 3,
+        "usuario": "Cesar",
+        "comentario": "\u00a1Muy buena aplicaci\u00f3n!"
+    },
+    {
+        "codigoComentario": 3,
+        "codigoPost": 4,
+        "usuario": "Adela",
+        "comentario": "\u00a1S\u00f3lo la disciplina vencer\u00e1 la inteligencia!"
+    },
+    {
+        "codigoComentario": 4,
+        "codigoPost": 5,
+        "usuario": "Lourdes",
+        "comentario": "Les extra\u00f1o mucho."
+    },
+    {
+        "codigoComentario": 5,
+        "codigoPost": 6,
+        "usuario": "Facebook",
+        "comentario": "\u00a1Que gran contaminaci\u00f3n!"
+    },
+    {
+        "codigoComentario": 6,
+        "codigoPost": 7,
+        "usuario": "Cesar",
+        "comentario": "Gran pensamiento de Francisco Moraz\u00e1n."
+    },
+    {
+        "codigoComentario": 7,
+        "codigoPost": 8,
+        "usuario": "Lourdes",
+        "comentario": "\u00a1Bonita obra de ingenier\u00eda y arquitectura!"
+    },
+    {
+        "codigoComentario": 8,
+        "codigoPost": 9,
+        "usuario": "Google",
+        "comentario": "\u00a1Grandes ellos, Dios les bendiga!"
+    },
+    {
+        "codigoComentario": 9,
+        "codigoPost": 10,
+        "usuario": "Facebook",
+        "comentario": "A seguir los consejos de ahorro de energ\u00eda."
+    },
+    {
+        "codigoComentario": 10,
+        "codigoPost": 11,
+        "usuario": "Adela",
+        "comentario": "\u00a1Si te cuidas t\u00fa y me cuido yo, nos cuidamos todos!"
+    },
+    {
+        "codigoComentario": 11,
+        "codigoPost": 19,
+        "usuario": "Google",
+        "comentario": "Una Coca Cola para calmar tu sed."
+    },
+    {
+        "codigoComentario": 12,
+        "codigoPost": 2,
+        "usuario": "Cesar",
+        "comentario": "\u00a1Felicidades Google!"
+    },
+    {
+        "codigoComentario": 13,
+        "codigoPost": 16,
+        "usuario": "Microsoft",
+        "comentario": "A comprar una agenda se ha dicho."
+    },
+    {
+        "codigoComentario": 14,
+        "codigoPost": 18,
+        "usuario": "Microsoft",
+        "comentario": "\u00a1Hola Google!"
+    },
+    {
+        "codigoComentario": 15,
+        "codigoPost": 1,
+        "usuario": "Pedro",
+        "comentario": "Cuidemos la capa de ozono."
+    },
+    {
+        "codigoComentario": 16,
+        "codigoPost": 12,
+        "usuario": "Cesar",
+        "comentario": "\u00a1Ficohsa!"
+    },
+    {
+        "codigoComentario": 17,
+        "codigoPost": 1,
+        "usuario": "Adela",
+        "comentario": "Cuidar de nuestra capa de ozono, es tarea de todos."
+    },
+    {
+        "codigoComentario": 18,
+        "codigoPost": 15,
+        "usuario": "Google",
+        "comentario": "\u00a1Gran pa\u00eds, Honduras!"
+    },
+    {
+        "codigoComentario": 19,
+        "codigoPost": 5,
+        "usuario": "Pedro",
+        "comentario": "\u00a1Hola familia!"
+    },
+    {
+        "codigoComentario": 20,
+        "codigoPost": 3,
+        "usuario": "Mario",
+        "comentario": "\u00a1Yo uso Teams!"
+    },
+    {
+        "codigoComentario": 21,
+        "codigoPost": 11,
+        "usuario": "Lourdes",
+        "comentario": "Luchemos contra el COVID-19"
+    },
+    {
+        "codigoComentario": 22,
+        "codigoPost": 7,
+        "usuario": "Adela",
+        "comentario": "Adelante, que la lucha es constante."
+    },
+    {
+        "codigoComentario": 23,
+        "codigoPost": 7,
+        "usuario": "Google",
+        "comentario": "\u00a1Google apoya la educaci\u00f3n mundial!"
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 2,
+        "usuario": "Mario",
+        "comentario": "\u00a1Hola Google!"
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 18,
+        "usuario": "Cesar",
+        "comentario": "Google, \u00bfC\u00f3mo esta su personal?"
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 12,
+        "usuario": "Lourdes",
+        "comentario": "Hola, \u00bfexiste la posibilidad de un cr\u00e9dito con su banco?"
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 8,
+        "usuario": "Cesar",
+        "comentario": "Somos Ingenier\u00eda en Sistemas"
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 5,
+        "usuario": "Cesar",
+        "comentario": "\u00bfC\u00f3mo est\u00e1 la familia G\u00fanera Santos?"
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 8,
+        "usuario": "Pedro",
+        "comentario": "Construir desde cero, es lo bello de la Ingenier\u00eda."
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 22,
+        "usuario": "Pedro",
+        "comentario": "Que buen post."
+    },
+    {
+        "codigoComentario": 1234,
+        "codigoPost": 20,
+        "usuario": "Lourdes",
+        "comentario": "Grande es el se\u00f1or de reyes."
+    }
+]
